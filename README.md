@@ -1,1 +1,1 @@
-# weakly_sporadic_F_hollow
+# Weakly sporadic $F$-hollow lattice 3-polytopes
